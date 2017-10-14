@@ -1,6 +1,6 @@
 <?php
-$host="https://trupaying.herokuapp.com/";
-$user="root";
-$pass="";
+$host="161.130.188.246";
+$user="newUser";
+$pass="Ilikeclouds1";
 $db="schoolfeestable";
 ?>
