@@ -1,0 +1,13 @@
+{
+  "name": "testest",
+  "description": "ahhhhhhhhhhhhhhhhhhhhh",
+  "website": "https://wnitweet.me/",
+  "repository": "https://github.com/cfuchs981/testest",
+  "success_url": "/welcome",
+
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
