@@ -1,6 +1,6 @@
 <?php
-$host="localhost:3307";
+$host="https://trupaying.herokuapp.com/";
 $user="root";
 $pass="";
-$db="digitalart";
+$db="schoolfeestable";
 ?>
