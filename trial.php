@@ -4,6 +4,7 @@
 	<head>
 		<title>TruPay</title>
 		<meta charset="utf-8" />
+    		<link rel="stylesheet" type="text/css" href="main.css"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -43,6 +44,10 @@ position: fixed;
 z-index: 1;
 margin-top: 0px;
 top: 0px;
+}
+img{
+max-width: 100%; 
+max-height: 100%; 
 }
 #loading-center{
   width: 100%;
