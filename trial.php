@@ -232,7 +232,7 @@ jQuery(document).ready(function(){
 	<?php
 		include "file_constants.php"; 
     include "login.php"; 
-		$link = mysqli_connect($host, "root", "", "mysql")
+		$link = mysqli_connect($host, $user, $password, $db)
 									     or die("Could not connect: " . mysql_error());
 
     parse_str($_SERVER['QUERY_STRING']);
