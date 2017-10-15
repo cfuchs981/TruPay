@@ -1,8 +1,8 @@
 {
-  "name": "testest",
-  "description": "ahhhhhhhhhhhhhhhhhhhhh",
-  "website": "https://wnitweet.me/",
-  "repository": "https://github.com/cfuchs981/testest",
+  "name": "TruPay",
+  "description": "University payment app",
+  "website": "",
+  "repository": "https://github.com/cfuchs981/TruPay",
   "success_url": "/welcome",
 
   "buildpacks": [
